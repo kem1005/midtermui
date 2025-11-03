@@ -116,13 +116,13 @@ The UI/UX designer uses Qt Design Studio to create the initial interface mockups
 
 **Clean Code:** Generated QML code is readable and maintainable, following Qt conventions and best practices.
 
-**Faster Development:** Developers focus on business logic rather than UI implementation, reducing development time by 40%.
+**Faster Development:** Developers focus on business logic rather than UI implementation, significantly reducing front-end development time in this project.
 
 **Easy Maintenance:** When designs change, developers simply replace QML files rather than refactoring code.
 
 ### For the Project
 
-**Reduced Timeline:** The project is completed in 4 weeks instead of the estimated 8 weeks using traditional development approaches.
+**Reduced Timeline:** The project is completed in 4 weeks compared to an estimated 6-8 weeks if developers had implemented the UI manually without design tool support.
 
 **Better Quality:** More time for testing and refinement results in a polished, professional application.
 
